@@ -6,6 +6,9 @@ https://github.com/vizinviz
 ## p5.js Reference
 https://p5js.org/reference/
 
+## p5.js Examples
+https://p5js.org/examples/
+
 ## Debugging in p5.js
 https://p5js.org/learn/debugging.html
 
