@@ -27,6 +27,10 @@ https://shiftr.io/vizinviz/vizinviz-playground
 ## OpenProcessing
 https://www.openprocessing.org
 
+## Bachelorarbeit Fabien Pannatier
+http://104587-4.web.fh-htwchur.ch/
+
+
 
 
 
