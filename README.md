@@ -6,6 +6,9 @@ https://github.com/vizinviz
 ## Chrome Webserver Extension
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
 
+## Live Server
+npm install -g live-server
+
 ## p5.js Reference
 https://p5js.org/reference/
 
@@ -23,6 +26,7 @@ https://shiftr.io/vizinviz/vizinviz-playground
 
 ## OpenProcessing
 https://www.openprocessing.org
+
 
 
 
