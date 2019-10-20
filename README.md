@@ -4,7 +4,7 @@
 https://github.com/vizinviz
 
 ## Chrome Webserver Extension
-https://chrome.google.com/webstore/detail/web-server-for-chrome
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
 
 ## p5.js Reference
 https://p5js.org/reference/
