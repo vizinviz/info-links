@@ -27,8 +27,12 @@ https://shiftr.io/vizinviz/vizinviz-playground
 ## OpenProcessing
 https://www.openprocessing.org
 
-## Bachelorarbeit Fabien Pannatier
+## Bachelorarbeit Generative Logo
 http://104587-4.web.fh-htwchur.ch/
+
+## Movie Bar Code
+https://moviebarcode.tumblr.com
+
 
 
 
